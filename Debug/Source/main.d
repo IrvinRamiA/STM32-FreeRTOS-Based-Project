@@ -30,7 +30,16 @@ Source/main.o: ../Source/main.c \
  /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_rng.h \
  /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_can.h \
  /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_dac.h \
- /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_dcmi.h
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_dcmi.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/FreeRTOS.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/Config/FreeRTOSConfig.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/projdefs.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/portable.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/deprecated_definitions.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/mpu_wrappers.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/task.h \
+ /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/list.h
 
 /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/CMSIS/device/stm32f4xx.h:
 
@@ -95,3 +104,21 @@ Source/main.o: ../Source/main.c \
 /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_dac.h:
 
 /home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/StdPeriphDriver/inc/../../StdPeriphDriver/inc/stm32f4xx_dcmi.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/FreeRTOS.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/Config/FreeRTOSConfig.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/projdefs.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/portable.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/deprecated_definitions.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM4F/portmacro.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/mpu_wrappers.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/task.h:
+
+/home/irvin/STM32CubeIDE/workspace_1.1.0/STM32_Hello_World/ThirdParty/FreeRTOS/org/Source/include/list.h:
